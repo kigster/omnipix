@@ -19,15 +19,13 @@
 							<builder buildPath="${workspace_loc:/TeensySmartMatrix}/Release" id="it.baeyens.arduino.sketch.builder.1074800355" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Arduino sketch builder" superClass="it.baeyens.arduino.sketch.builder"/>
 							<tool id="it.baeyens.arduino.tool.sketch.compiler.cpp.984826082" name="Arduino C++ Compiler" superClass="it.baeyens.arduino.tool.sketch.compiler.cpp">
 								<option id="it.baeyens.arduino.compiler.cpp.sketch.option.incpath.48719863" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.cpp.sketch.option.incpath" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TeensySmartMatrix/arduino/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TeensySmartMatrix/Libraries/SmartMatrix_32x32}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/omnipix/arduino/core}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.cpp.sketch.input.245055869" name="CPP source files" superClass="it.baeyens.arduino.compiler.cpp.sketch.input"/>
 							</tool>
 							<tool id="it.baeyens.arduino.tool.compiler.c.1170179274" name="Arduino C Compiler" superClass="it.baeyens.arduino.tool.compiler.c">
 								<option id="it.baeyens.arduino.compiler.c.sketch.option.incpath.1666674210" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.c.sketch.option.incpath" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TeensySmartMatrix/arduino/core}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/TeensySmartMatrix/Libraries/SmartMatrix_32x32}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/omnipix/arduino/core}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.c.sketch.input.665699299" name="C Source Files" superClass="it.baeyens.arduino.compiler.c.sketch.input"/>
 							</tool>

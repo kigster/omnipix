@@ -30,3 +30,4 @@ spec.d
 *.exe
 *.out
 *.app
+.ino.cpp
